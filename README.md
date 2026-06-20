@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# APNA COLLEGE DEMO
 This is my first Git Repository.
 <br>
 
